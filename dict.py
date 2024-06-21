@@ -9,3 +9,5 @@ students ={'michel': 88, 'yanfu':99, 'xiaoqiang':80}
 
 student  = input()
 print(students[student])
+
+
